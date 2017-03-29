@@ -64,3 +64,6 @@ To launch the notebook, run the following command from a terminal with anaconda3
 		https://discussions.udacity.com/t/sympy-intro-lab-question-4-help/229192/8
 
 ## Solution 
+
+* diffDiag
+	* Discussion https://discussions.udacity.com/t/diffdiag-using-symbol/229264/8
